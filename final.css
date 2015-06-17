@@ -34,6 +34,98 @@
   color: #fff;
 }
 
+.jumbotrona {
+  background-image:url('http://i.imgur.com/UmVodvW.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotrona .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotrona h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotrona p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotrona {
+  background-image:url('http://i.imgur.com/pXFRwUZ.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotrona .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotrona h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotrona p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotronb {
+  background-image:url('http://i.imgur.com/nePIriC.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotronb .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotronb h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotronb p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotronc {
+  background-image:url('http://i.imgur.com/Fw35vRJ.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotronc .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotronc h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotronc p {
+  font-size: 20px;
+  color: #fff;
+}
 .learn-more {
   background-color: #f7f7f7;
 }
